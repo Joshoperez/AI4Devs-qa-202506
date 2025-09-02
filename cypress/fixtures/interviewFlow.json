@@ -1,0 +1,21 @@
+{
+  "interviewFlow": {
+    "positionName": "Software Engineer",
+    "interviewFlow": {
+      "interviewSteps": [
+        {
+          "id": 1,
+          "name": "Entrevista Inicial"
+        },
+        {
+          "id": 2,
+          "name": "Entrevista Técnica"
+        },
+        {
+          "id": 3,
+          "name": "Entrevista Final"
+        }
+      ]
+    }
+  }
+}

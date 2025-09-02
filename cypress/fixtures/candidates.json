@@ -1,0 +1,16 @@
+[
+  {
+    "candidateId": 1,
+    "fullName": "John Doe",
+    "currentInterviewStep": "Entrevista Inicial",
+    "averageScore": 8,
+    "applicationId": 101
+  },
+  {
+    "candidateId": 2,
+    "fullName": "Jane Smith",
+    "currentInterviewStep": "Entrevista Técnica",
+    "averageScore": 9,
+    "applicationId": 102
+  }
+]

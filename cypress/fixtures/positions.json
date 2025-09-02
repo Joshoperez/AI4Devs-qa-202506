@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "contactInfo": "John Doe",
+    "applicationDeadline": "2025-09-15",
+    "status": "Open",
+    "stages": [
+      {
+        "id": 1,
+        "name": "Entrevista Inicial",
+        "candidates": [
+          {
+            "id": 1,
+            "name": "John Doe",
+            "status": "En Proceso"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Entrevista Técnica",
+        "candidates": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Product Manager",
+    "contactInfo": "Jane Smith",
+    "applicationDeadline": "2025-09-20",
+    "status": "Contratado"
+  },
+  {
+    "id": 3,
+    "title": "Data Scientist",
+    "contactInfo": "Alex Jones",
+    "applicationDeadline": "2025-09-25",
+    "status": "Borrador"
+  }
+]
